@@ -1,8 +1,8 @@
 <h1>Hi, I'm Gladys! <br/><a href="https://github.com/Gladys-TM">BI Developer</a>, <a href="https://www.linkedin.com/in/gladys-t-m/">Cybersecurity Professional</a>, Passionate about DevSecOps</a>
 <h2>👨‍💻 Azure Cloud Projects:</h2>
 
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+- <b>Azure/ Cloud Projects</b>
+  - [Creating a Live SOC Honeynet in Azure](https://github.com/Gladys-TM/Cloud-Azure-SOC)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
