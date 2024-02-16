@@ -14,7 +14,7 @@
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="GladysT.Matava | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="GladysT.Matava | tableaupublic" width="62px" src="https://f15.beauty/tableau-public-logo/tableaupublic.svg" />][tableaupublic]
+[<img align="left" alt="GladysT.Matava | tableaupublic" width="92px" src="https://f15.beauty/tableau-public-logo/tableaupublic.svg" />][tableaupublic]
 
 [linkedin]: https://linkedin.com/in/gladys-t-m-b750b719
 [tableaupublic]: https://public.tableau.com/app/profile/gladys.t.matava/vizzes
