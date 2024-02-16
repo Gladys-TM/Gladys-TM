@@ -15,8 +15,9 @@
 
 [<img align="left" alt="GladysT.Matava | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="GladysT.Matava | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][tableaupublic]
+
 [linkedin]: https://linkedin.com/in/gladys-t-m-b750b719
-[Tableau Public]: https://public.tableau.com/app/profile/gladys.t.matava/vizzes
+[tableaupublic]: https://public.tableau.com/app/profile/gladys.t.matava/vizzes
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
