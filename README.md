@@ -3,9 +3,9 @@
 
 - <b>Azure/ Cloud Projects</b>
   - [Creating a Live SOC Honeynet in Azure](https://github.com/Gladys-TM/Cloud-Azure-SOC)
- 
-   
-  - [Tableau Project](https://github.com/Gladys-TM/Cloud-Azure-SOC)
+
+- <b>Tableau/ Public Projects</b>
+  - [Tableau Project](https://public.tableau.com/views/CrimeStatsSouthAfrica/SouthAfricaCrimeStats2005-2016?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
  
 
  
