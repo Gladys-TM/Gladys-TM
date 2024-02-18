@@ -4,6 +4,13 @@
 - <b>Azure/ Cloud Projects</b>
   - [Creating a Live SOC Honeynet in Azure](https://github.com/Gladys-TM/Cloud-Azure-SOC)
  
+   
+  - [Tableau Project](https://github.com/Gladys-TM/Cloud-Azure-SOC)
+ 
+
+ 
+
+ 
 
 <h2> 🤳 Connect with me:</h2>
 
