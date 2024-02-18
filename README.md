@@ -1,13 +1,8 @@
 <h1>Hi, I'm Gladys! <br/><a href="https://github.com/Gladys-TM">BI Developer</a>, <a href="https://www.linkedin.com/in/gladys-t-m/">Cybersecurity Professional</a>, Passionate about DevSecOps</a>
-<h2>👨‍💻 My Cybersecurity Projects:</h2>
+<h2>👨‍💻 My Cybersecurity/BI Projects:</h2>
 
 - <b>Azure/ Cloud Projects</b>
   - [Creating a Live SOC Honeynet in Azure](https://github.com/Gladys-TM/Cloud-Azure-SOC)
-
-
-
-
-
 
 
 - <b>Tableau/ Public Projects</b>
