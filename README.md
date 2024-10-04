@@ -1,4 +1,4 @@
-<h1>Hi, I'm Gladys! <br/><a href="https://github.com/Gladys-TM">Salesforce Admin/Developer & Data Analyst</a> <a href="https://www.linkedin.com/in/gladys-t-m/">Data Professional</a>, Passionate about Data Management and DevOps</a>
+<h1>Hi, I'm Gladys! <br/><a href="https://github.com/Gladys-TM">Salesforce Admin/Developer & Data Analyst</a>. <a href="https://www.linkedin.com/in/gladys-t-m/">Data Professional</a>, Passionate about Data Management and DevOps</a>
 <h2>👨‍💻 My Cybersecurity / BI Projects:</h2>
 
 - <b>Azure/ Cloud Projects</b>
