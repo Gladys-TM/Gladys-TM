@@ -1,5 +1,5 @@
-<h1>Hi, I'm Gladys! <br/><a href="https://github.com/Gladys-TM">Data Professional/</a> <a href="https://www.linkedin.com/in/gladys-t-m/", Passionate about Data Analytics, Data Management, Security and DevOps</a>
-<h2>👨‍💻 My Cybersecurity / BI Projects:</h2>
+<h1>Hi, I'm Gladys! <br/><a href="https://github.com/Gladys-TM">Data Professional</a> <a href="https://www.linkedin.com/in/gladys-t-m/", Passionate about Data Analytics, Data Management, Security and DevOps</a>
+<h2>👨‍💻 My Data Management Projects:</h2>
 
 - <b>Azure/ Cloud Projects</b>
   - [Creating a Live SOC Honeynet in Azure](https://github.com/Gladys-TM/Cloud-Azure-SOC)
